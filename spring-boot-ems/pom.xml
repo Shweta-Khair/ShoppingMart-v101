@@ -17,8 +17,8 @@
 	<properties>
 		<java.version>1.8</java.version>
 		<sonar.projectVersion>1.0</sonar.projectVersion>
-		<sonar.projectName>Jenkins-Training-Jan2024</sonar.projectName>
-		<sonar.projectKey>Jenkins-Training-Jan2024:master</sonar.projectKey>
+		<sonar.projectName>Jenkins-Training-2024</sonar.projectName>
+		<sonar.projectKey>Jenkins-Training-2024:master</sonar.projectKey>
 		<sonar.sources>src/main</sonar.sources>
 		<sonar.java.binaries>target</sonar.java.binaries>
 		<sonar.coverage.jacoco.xmlReportPaths>spring-boot-ems/target/site/jacoco/jacoco.xml</sonar.coverage.jacoco.xmlReportPaths>
